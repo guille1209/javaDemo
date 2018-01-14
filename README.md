@@ -1,2 +1,2 @@
 # javaDemo
-Prueba de Git con netbeeans
+Prueba de Git con Netbeans
